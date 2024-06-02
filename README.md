@@ -52,7 +52,7 @@ You can view the page on your browser.
 
 ## Contact
 
-Aqeel - zeeshanmsd93@gmail.com
+Zeeshan - zeeshanmsd93@gmail.com
 
 Project Link: [https://github.com/zee78/service-provider-design](https://github.com/zee78/service-provider-design)
 
